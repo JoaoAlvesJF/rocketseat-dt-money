@@ -1,1 +1,0 @@
-# rocketseat-dt-money
